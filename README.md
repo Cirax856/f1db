@@ -1,16 +1,11 @@
 # f1db
 
-A new Flutter project.
+A simple Formula 1 database using the jolpica f1 api originally made for a school project.
 
-## Getting Started
+# TODO
 
-This project is a starting point for a Flutter application.
+The app is currently very limited to the jolpica f1 api, and a custom one is being made. Expect all of the below things to be added after the api has been finished.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Custom API
+* Design overhaul
+* A search system
